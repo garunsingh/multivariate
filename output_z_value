@@ -1,8 +1,8 @@
 runfile('C:/Users/ANURAG SINGH/Documents/Python Scripts/z_score.py', wdir='C:/Users/ANURAG SINGH/Documents/Python Scripts')
-z0-value =  1.4499999999999997
+z0-value =  1.4499999999999997   #for normal
 
- z0-value   =  2.3200000000000007
+ z0-value   =  2.3200000000000007 #for chi
 
- z0-value  =  3.4999999975778224
+ z0-value  =  3.4999999975778224  #for t
 
- z0-value  =  2.000000000000001
+ z0-value  =  2.000000000000001  # for f
